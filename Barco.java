@@ -39,7 +39,9 @@ public class Barco implements ISonido {
     private String getNombre() {return this.nombre;}
     private Date getFechaConstruccion() {return this.fechaConstruccion;}
     private Integer getNumCamarotes() {return this.numCamarotes;}
-    @Override
+
+
+    
     public void sonido() {
         System.out.println("El barco hace sonido ");
     }

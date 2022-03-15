@@ -2,7 +2,7 @@ package ED;
 
 public class Gato extends Mascota {
     //Atributos
-    private String raza =new String();
+    private String raza = new String();
     //Constructores
     public Gato(String raza){
         this.raza=raza;
@@ -16,5 +16,9 @@ public class Gato extends Mascota {
     }
     private String getRaza(){
         return this.raza;
+    }
+
+    public void sonido(){
+        System.out.println("La mascota hace sonidos ");
     }
 }

@@ -17,4 +17,9 @@ public class Perro extends Mascota {
     private String getRaza(){
         return this.raza;
     }
+
+    public void sonido(){
+        System.out.println("La mascota hace sonidos ");
+    }
+    
 }
