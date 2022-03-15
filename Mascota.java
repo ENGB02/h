@@ -28,7 +28,7 @@ public class Mascota implements ISonido{
         return this.eded;
     }
     
-    
+    @Override
     public void sonido(){
         System.out.println("La mascota hace sonidos ");
     }

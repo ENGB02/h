@@ -18,8 +18,10 @@ public class Perro extends Mascota {
         return this.raza;
     }
 
+    
+    @Override
     public void sonido(){
         System.out.println("La mascota hace sonidos ");
     }
-    
+
 }

@@ -42,6 +42,8 @@ public class Barco implements ISonido {
 
 
     
+    
+    @Override
     public void sonido() {
         System.out.println("El barco hace sonido ");
     }
