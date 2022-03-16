@@ -1,4 +1,5 @@
-package ED;
+Package ED;
+import interfaz.interfaz;
 
 public class Mascota implements ISonido{
     //Atributos

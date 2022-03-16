@@ -1,4 +1,4 @@
-package Interfaz;
+Package Interfaz;
 import ED.Barco;
 
 public interface ISonido {

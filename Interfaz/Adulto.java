@@ -1,9 +1,9 @@
-package Interfaz;
+Package Interfaz;
 
-import 1.Barco
-import 1.Perro
-import 1.Persona
-import 1.Gato
+import Barco;
+import Perro;
+import Persona;
+import Gato;
 
 public class Adulto extends Persona{
 

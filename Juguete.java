@@ -1,4 +1,4 @@
-package ED;
+Package ED;
 public class Juguete extends Nin {
      
     //Atributs

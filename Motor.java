@@ -1,4 +1,4 @@
-package ED;
+Package ED;
 public class Motor {
     //Atributos
     private String fabricante= new String();

@@ -1,7 +1,9 @@
-package ED;
+Package ED;
 
 import ED.Motor;
 import java.util.Date;
+import Adulto;
+import interfaz.interfaz;
 
 public class Barco implements ISonido {
 
