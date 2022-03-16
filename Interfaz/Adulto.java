@@ -1,4 +1,10 @@
-package ED;
+package Interfaz;
+
+import 1.Barco
+import 1.Perro
+import 1.Persona
+import 1.Gato
+
 public class Adulto extends Persona{
 
   
