@@ -1,4 +1,4 @@
-package ED;
+Package ED;
 public class Persona { 
     //Atributs
 	private String  nombre= new String ();
